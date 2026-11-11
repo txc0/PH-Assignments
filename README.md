@@ -17,5 +17,5 @@ This repository contains my solutions to the TypeScript assignment covering Modu
 - Two blog posts (linked below)
 
 ## Blog Posts
-- [Blog 1 Title](./blog-1-file-name.md)
-- [Blog 2 Title](./blog-2-file-name.md)
+- [Blog 1 Title](./type-vs-interface.md)
+- [Blog 2 Title](./access-modifiers.md)
